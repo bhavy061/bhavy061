@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 B.Tech CSE Student | AI & ML Enthusiast | Full Stack Developer
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Bhavya%&fontSize=45&fontColor=ffffff"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Full+Stack+Developer;Python+Developer;Always+Learning!&center=true&width=700)](https://git.io/typing-svg)
+
 ## 👨‍💻 About Me
 
 🎓 Final Year B.Tech CSE Student
@@ -57,5 +57,5 @@ your_email@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavy061&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy061&layout=compact&theme=tokyonight)
-![snake gif](https://github.com/bhavy061/bhavy061/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://komarev.com/ghpvc/?username=bhavy061&color=blueviolet)
