@@ -13,7 +13,7 @@ B.Tech CSE Student | AI & ML Enthusiast | Full Stack Developer
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech CSE Student
+🎓 Computer Science graduate who turns data into decisions, ideas into software, and research into applied AI.
 
 💻 Passionate about AI, ML and Full Stack Development
 
@@ -24,7 +24,7 @@ B.Tech CSE Student | AI & ML Enthusiast | Full Stack Developer
 - Cloud
 
 📫 Email:
-your_email@gmail.com
+bhavyachopra061@gmail.com
 ## 🚀 Tech Stack
 
 <p>
